@@ -9,7 +9,6 @@ I swear I have a life outside of coding. I enjoy creating and performing music. 
 - [Personal](https://www.flatlined.gg/)
 - [LinkedIn](https://www.linkedin.com/in/justin-flatlined/)
 
-## Support me on Ko-fi!
-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W7116IW6)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W7116IW6)
 
 Thanks for stopping by 😊
