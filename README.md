@@ -1,6 +1,6 @@
 # Hello, I'm Justin 👋
 
-I've been coding for as long as this Github Accounts been made.
+I've been coding for as long as this Github Account's been made.
 
 So... it's been about 3 years.
 
