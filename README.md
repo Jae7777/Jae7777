@@ -17,6 +17,6 @@ Check out my other profiles:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W7116IW6)
 
-![](https://komarev.com/ghpvc/?Jae7777&color=212531)
+<img src="https://komarev.com/ghpvc/?username=Jae7777&style=flat-square&color=212531&label=views">
 
 Thanks for stopping by 😊
