@@ -1,6 +1,6 @@
 # Hello, I'm Justin 👋
 
-I'm also known as Jae | Jaえ | Jae7777 | YourMajestryRegis
+My online tags are Jae | Jaえ | Jae7777 | YourMajestryRegis | etc.
 
 I've been coding for as long as this Github Account's been made.
 
