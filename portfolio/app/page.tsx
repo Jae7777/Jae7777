@@ -1,8 +1,8 @@
 "use client";
 
-import Image from "next/image";
 import { useEffect, useState } from "react";
 import ReactMarkdown from "react-markdown";
+import { PluggableList } from "react-markdown/lib/react-markdown";
 import rehypeRaw from "rehype-raw";
 
 export default function Home() {
@@ -16,7 +16,7 @@ export default function Home() {
   return (
     <main className="p-12">
       <ReactMarkdown
-        rehypePlugins={[rehypeRaw] as any}
+        rehypePlugins={[rehypeRaw] as PluggableList }
         className="prose mx-auto dark:prose-invert"
       >
         {markdown}
