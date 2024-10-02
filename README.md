@@ -16,5 +16,6 @@ Check out my other profiles:
 - 🔗[LinkedIn](https://www.linkedin.com/in/justin-flatlined/)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W7116IW6)
+![](https://komarev.com/ghpvc/?Jae7777&color=212531)
 
 Thanks for stopping by 😊
