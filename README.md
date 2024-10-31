@@ -1,6 +1,4 @@
-# Hello, I'm Justin 👋
-
-My online tags are Jae | Jaえ | Jae7777 | YourMajestryRegis | etc.
+# Hello, I'm Justin o/
 
 I've been coding for as long as this Github Account's been made.
 
@@ -17,7 +15,7 @@ Check out my other profiles:
 - 🔗[Personal](https://www.justin.flatlined.gg/)
 - 🔗[LinkedIn](https://www.linkedin.com/in/justin-flatlined/)
 
-Thanks for stopping by 😊
+Thanks for stopping by =w=
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W7116IW6)
 
