@@ -14,6 +14,8 @@ Check out my other profiles:
 
 - 🔗[Personal](https://flatlined.gg/)
 - 🔗[LinkedIn](https://www.linkedin.com/in/justin-flatlined/)
+- 🔗[DevPost](https://devpost.com/jchen4086)
+- 🔗[Itch.io](https://itch.io/profile/jae7777)
 
 Thanks for stopping by =w=
 
