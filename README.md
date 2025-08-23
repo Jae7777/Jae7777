@@ -1,17 +1,8 @@
 # Hello, I'm Justin o/
 
-I've been coding for as long as this Github Account's been made.
+I'm working on an exciting project about to launch soon. I plan on making it open source once it's on its feet. Stay on the lookout ^^
 
-Which... has been about 3 years.
-
-I often feel like a late bloomer. I started coding at 18, far later than some of the geniuses I know. I didn't get my hands on a computer until college. Sometimes I regret not getting into programming sooner.
-
-But I think I'm progressing fine. I can say confidently that I've learnt a lot and will keeep on going. Here's what I'm working on 🔗[here](https://flatlined.gg)
-
-Outside of coding I like to make music, art, and food. And outside of making, I like fashion, books, and tech.
-
-Check out my other profiles:
-
+Profiles:
 - 🔗[Personal](https://flatlined.gg/)
 - 🔗[LinkedIn](https://www.linkedin.com/in/justin-flatlined/)
 - 🔗[DevPost](https://devpost.com/jchen4086)
