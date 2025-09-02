@@ -1,6 +1,8 @@
 # Hello, I'm Justin o/
 
-I'm working on an exciting project about to launch soon. I plan on making it open source once it's on its feet. Stay on the lookout ^^
+a big project is on its way to launch o.o
+
+stay tuned
 
 Profiles:
 - 🔗[Personal](https://flatlined.gg/)
