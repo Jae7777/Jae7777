@@ -1,3 +1,4 @@
+<img width="498" height="281" alt="frieren-shooting-star" src="https://github.com/user-attachments/assets/10e14866-651a-4a10-a17e-50051db31c98" />
 <div align='center'>
   <img 
     alt="banner" 
@@ -5,5 +6,4 @@
     style="width: 100%; max-width: 4900px; height: auto; display: block; margin: 0 auto;"
   />
 </div>
-<img src="https://komarev.com/ghpvc/?username=Jae7777&style=flat-square&color=429dd7&label=views"> 
 
