@@ -1,12 +1,9 @@
-the project i'm most proud of: [cool project](https://flatlined.gg)
-
-Profiles:
-- 🔗[Personal](https://flatlined.gg/)
-- 🔗[LinkedIn](https://www.linkedin.com/in/justin-flatlined/)
-- 🔗[DevPost](https://devpost.com/jchen4086)
-- 🔗[Itch.io](https://itch.io/profile/jae7777)
-
-Thanks for stopping by =w=
-
+<div align='center'>
+  <img 
+    alt="banner" 
+    src="https://github.com/user-attachments/assets/d3a46d26-f5f1-4061-94eb-148d1bf670cd" 
+    style="width: 100%; max-width: 4900px; height: auto; display: block; margin: 0 auto;"
+  />
+</div>
 <img src="https://komarev.com/ghpvc/?username=Jae7777&style=flat-square&color=429dd7&label=views"> 
 
